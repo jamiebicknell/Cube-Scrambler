@@ -26,6 +26,6 @@ echo $scrambler->generate();
 
     F' D L2 D F' B L2 U2 D' L' F B D U B2 F2 U2 R F D' L2 B2 R' F R
 
-##License
+## License
 
 Cube Scrambler PHP Class is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/Cube-Scrambler/blob/master/LICENSE.md) for details.
